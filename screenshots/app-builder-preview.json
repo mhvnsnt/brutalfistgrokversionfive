@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Brutal Fist",
+      "hasCanvas": false,
+      "bodyTextLen": 422,
+      "bodyTextHash": "136544449ab2a857b1e2eba95c8075d2caceaf22ba99ac14ddd671b093a2243b",
+      "bodyTextPrefix": "Loading BF_bannon.x from the Schwarzerblitz media slot BRUTAL FI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Brutal Fist",
+      "hasCanvas": false,
+      "bodyTextLen": 351,
+      "bodyTextHash": "a5a026c7fce6e343728b7e751e1ef40d524d045ecc37071dc71dde2ace8ad6a9",
+      "bodyTextPrefix": "Loading BF_bannon.x from the Schwarzerblitz media slot BRUTAL FI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
